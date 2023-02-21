@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\linhl\\.nuget\\packages\\": {}
+    "C:\\Users\\vanph\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#\\Git\\Tuan 4\\bai2\\bai2\\bai2.csproj",
+      "projectUniqueName": "D:\\C#\\Git\\bai2\\bai2\\bai2.csproj",
       "projectName": "bai2",
-      "projectPath": "E:\\C#\\Git\\Tuan 4\\bai2\\bai2\\bai2.csproj",
-      "packagesPath": "C:\\Users\\linhl\\.nuget\\packages\\",
-      "outputPath": "E:\\C#\\Git\\Tuan 4\\bai2\\bai2\\obj\\",
+      "projectPath": "D:\\C#\\Git\\bai2\\bai2\\bai2.csproj",
+      "packagesPath": "C:\\Users\\vanph\\.nuget\\packages\\",
+      "outputPath": "D:\\C#\\Git\\bai2\\bai2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\linhl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\vanph\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
