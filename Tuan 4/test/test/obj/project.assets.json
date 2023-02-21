@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#\\Git\\test\\test\\test.csproj",
+      "projectUniqueName": "E:\\C#\\Git\\Tuan 4\\test\\test\\test.csproj",
       "projectName": "test",
-      "projectPath": "E:\\C#\\Git\\test\\test\\test.csproj",
+      "projectPath": "E:\\C#\\Git\\Tuan 4\\test\\test\\test.csproj",
       "packagesPath": "C:\\Users\\linhl\\.nuget\\packages\\",
-      "outputPath": "E:\\C#\\Git\\test\\test\\obj\\",
+      "outputPath": "E:\\C#\\Git\\Tuan 4\\test\\test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\linhl\\AppData\\Roaming\\NuGet\\NuGet.Config",
