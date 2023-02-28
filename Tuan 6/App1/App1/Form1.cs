@@ -21,5 +21,20 @@ namespace App1
         {
 
         }
+
+        private void chuotvaoform(object sender, EventArgs e)
+        {
+            this.BackColor = Color.Blue;
+        }
+
+        private void chuotroiform(object sender, EventArgs e)
+        {
+            this.BackColor = Color.Red;
+        }
+
+        private void Nhapchuot(object sender, MouseEventArgs e)
+        {
+            this.BackColor = Color.Aqua;
+        }
     }
 }

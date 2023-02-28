@@ -34,10 +34,14 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(936, 498);
+            this.BackColor = System.Drawing.Color.Red;
+            this.ClientSize = new System.Drawing.Size(906, 573);
             this.Name = "Form1";
-            this.Text = "Linh";
+            this.Text = "Linh1";
             this.Load += new System.EventHandler(this.Form1_Load);
+            this.MouseClick += new System.Windows.Forms.MouseEventHandler(this.Nhapchuot);
+            this.MouseEnter += new System.EventHandler(this.chuotvaoform);
+            this.MouseLeave += new System.EventHandler(this.chuotroiform);
             this.ResumeLayout(false);
 
         }
