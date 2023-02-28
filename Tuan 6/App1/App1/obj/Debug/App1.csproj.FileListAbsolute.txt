@@ -9,3 +9,14 @@ E:\C#\Git\Tuan 5\App1\App1\obj\Debug\App1.csproj.GenerateResource.cache
 E:\C#\Git\Tuan 5\App1\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
 E:\C#\Git\Tuan 5\App1\App1\obj\Debug\App1.exe
 E:\C#\Git\Tuan 5\App1\App1\obj\Debug\App1.pdb
+E:\C#\Git\Tuan 6\App1\App1\bin\Debug\App1.exe.config
+E:\C#\Git\Tuan 6\App1\App1\bin\Debug\App1.exe
+E:\C#\Git\Tuan 6\App1\App1\bin\Debug\App1.pdb
+E:\C#\Git\Tuan 6\App1\App1\obj\Debug\App1.csproj.AssemblyReference.cache
+E:\C#\Git\Tuan 6\App1\App1\obj\Debug\App1.csproj.SuggestedBindingRedirects.cache
+E:\C#\Git\Tuan 6\App1\App1\obj\Debug\App1.Form1.resources
+E:\C#\Git\Tuan 6\App1\App1\obj\Debug\App1.Properties.Resources.resources
+E:\C#\Git\Tuan 6\App1\App1\obj\Debug\App1.csproj.GenerateResource.cache
+E:\C#\Git\Tuan 6\App1\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
+E:\C#\Git\Tuan 6\App1\App1\obj\Debug\App1.exe
+E:\C#\Git\Tuan 6\App1\App1\obj\Debug\App1.pdb
