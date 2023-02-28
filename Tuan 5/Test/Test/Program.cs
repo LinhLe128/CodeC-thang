@@ -1,23 +1,22 @@
 ﻿namespace Test
 {
-    class A
+    class Point
     {
-        public int x = 10;
-        public void display() 
-        { 
-            Console.WriteLine(this.x);
+        private int x = 0;
+        private int y = 0;
+
+        public Point(int x, int y)
+        {
+            this.x = x;
+            this.y = y;
         }
-    }
-    class B : A{
-        public int x = 20;
-        
     }
     internal class Program
     {
         static void Main(string[] args)
         {
-            A b = new B();
-            b.display();
+            Point p = new Point(1,2);
+            Point p1 = new Point(1, 2);
         }
     }
 }
