@@ -39,6 +39,7 @@
             this.Name = "Form1";
             this.Text = "Linh1";
             this.Load += new System.EventHandler(this.Form1_Load);
+            this.Click += new System.EventHandler(this.Form1_Click);
             this.MouseClick += new System.Windows.Forms.MouseEventHandler(this.Nhapchuot);
             this.MouseEnter += new System.EventHandler(this.chuotvaoform);
             this.MouseLeave += new System.EventHandler(this.chuotroiform);

@@ -36,5 +36,10 @@ namespace App1
         {
             this.BackColor = Color.Aqua;
         }
+
+        private void Form1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("You have just clicked", "Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
     }
 }
