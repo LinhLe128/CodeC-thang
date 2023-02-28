@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -50,6 +51,24 @@ namespace App1
             {
                 e.Cancel = true;
             } else e.Cancel = false;
+        }
+
+        private void Form1_Paint(object sender, PaintEventArgs e)
+        {
+            Graphics g = e.Graphics;
+            Font f = new Font("Arial", 16);
+            SolidBrush b = new SolidBrush(Color.Red);
+            Point p = new Point(50, 100);
+            g.DrawString("Nothing gonna chaange", f, b, p);
+
+            Pen cn = new Pen(b);
+            Rectangle r = new Rectangle(50, 70, 100, 125);
+            g.DrawRectangle(cn, r);
+
+            Pen round = new Pen(b);
+            Rectangle tron = new Rectangle(200, 200, 60, 60);
+            g.DrawEllipse(round, tron);
+
         }
     }
 }

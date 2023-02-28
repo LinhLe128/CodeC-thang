@@ -17,7 +17,8 @@ namespace App1
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Form1 f1 = new Form1();
-            Application.Run(f1);
+            Linh2 f2 = new Linh2();
+            Application.Run(f2);
         }
     }
 }
