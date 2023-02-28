@@ -21,3 +21,4 @@ E:\C#\Git\Tuan 6\App1\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
 E:\C#\Git\Tuan 6\App1\App1\obj\Debug\App1.exe
 E:\C#\Git\Tuan 6\App1\App1\obj\Debug\App1.pdb
 E:\C#\Git\Tuan 6\App1\App1\obj\Debug\App1.Linh2.resources
+E:\C#\Git\Tuan 6\App1\App1\obj\Debug\App1.Form3.resources

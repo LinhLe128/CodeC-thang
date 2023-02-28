@@ -1,6 +1,6 @@
 ﻿namespace App1
 {
-    partial class Linh2
+    partial class Form3
     {
         /// <summary>
         /// Required designer variable.
@@ -30,16 +30,15 @@
         {
             this.SuspendLayout();
             // 
-            // Linh2
+            // Form3
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.ClientSize = new System.Drawing.Size(856, 497);
-            this.Name = "Linh2";
-            this.Text = "Linh2";
-            this.Load += new System.EventHandler(this.Form2_Load);
-            this.Paint += new System.Windows.Forms.PaintEventHandler(this.Form2_Paint);
+            this.ClientSize = new System.Drawing.Size(706, 725);
+            this.Name = "Form3";
+            this.Text = "Linh3";
+            this.Load += new System.EventHandler(this.Form3_Load);
+            this.Paint += new System.Windows.Forms.PaintEventHandler(this.Form3_Paint);
             this.ResumeLayout(false);
 
         }

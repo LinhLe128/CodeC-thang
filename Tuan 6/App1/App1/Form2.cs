@@ -32,23 +32,23 @@ namespace App1
             SolidBrush t = new SolidBrush(Color.Red);
 
 
-            Pen round = new Pen(a);
+            Pen round = new Pen(a, 3);
             Rectangle tron = new Rectangle(200, 200, 60, 60);
             g.DrawEllipse(round, tron);
 
-            Pen round2 = new Pen(b);
+            Pen round2 = new Pen(b, 3);
             Rectangle tron2 = new Rectangle(235, 230, 60, 60);
             g.DrawEllipse(round2, tron2);
 
-            Pen round3 = new Pen(c);
+            Pen round3 = new Pen(c, 3);
             Rectangle tron3 = new Rectangle(270, 200, 60, 60);
             g.DrawEllipse(round3, tron3);
 
-            Pen round4 = new Pen(d);
+            Pen round4 = new Pen(d, 3);
             Rectangle tron4 = new Rectangle(305, 230, 60, 60);
             g.DrawEllipse(round4, tron4);
 
-            Pen round5 = new Pen(t);
+            Pen round5 = new Pen(t, 3);
             Rectangle tron5 = new Rectangle(340, 200, 60, 60);
             g.DrawEllipse(round5, tron5);
 

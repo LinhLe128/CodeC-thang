@@ -18,7 +18,8 @@ namespace App1
             Application.SetCompatibleTextRenderingDefault(false);
             Form1 f1 = new Form1();
             Linh2 f2 = new Linh2();
-            Application.Run(f2);
+            Form3 f3 = new Form3();
+            Application.Run(f3);
         }
     }
 }
