@@ -41,5 +41,15 @@ namespace App1
         {
             MessageBox.Show("You have just clicked", "Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
+
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            DialogResult kq;
+            kq = MessageBox.Show("Ban muon dong cua so nay khong", "Exit", MessageBoxButtons.YesNo,MessageBoxIcon.Warning);
+            if(kq == DialogResult.No)
+            {
+                e.Cancel = true;
+            } else e.Cancel = false;
+        }
     }
 }

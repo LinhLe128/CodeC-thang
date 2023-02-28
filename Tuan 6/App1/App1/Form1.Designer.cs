@@ -38,6 +38,7 @@
             this.ClientSize = new System.Drawing.Size(906, 573);
             this.Name = "Form1";
             this.Text = "Linh1";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.Load += new System.EventHandler(this.Form1_Load);
             this.Click += new System.EventHandler(this.Form1_Click);
             this.MouseClick += new System.Windows.Forms.MouseEventHandler(this.Nhapchuot);
