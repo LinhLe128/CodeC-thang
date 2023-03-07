@@ -1,0 +1,11 @@
+E:\C#\Git\Tuan 7\App2\App2\bin\Debug\App2.exe.config
+E:\C#\Git\Tuan 7\App2\App2\bin\Debug\App2.exe
+E:\C#\Git\Tuan 7\App2\App2\bin\Debug\App2.pdb
+E:\C#\Git\Tuan 7\App2\App2\obj\Debug\App2.csproj.AssemblyReference.cache
+E:\C#\Git\Tuan 7\App2\App2\obj\Debug\App2.csproj.SuggestedBindingRedirects.cache
+E:\C#\Git\Tuan 7\App2\App2\obj\Debug\App2.Form1.resources
+E:\C#\Git\Tuan 7\App2\App2\obj\Debug\App2.Properties.Resources.resources
+E:\C#\Git\Tuan 7\App2\App2\obj\Debug\App2.csproj.GenerateResource.cache
+E:\C#\Git\Tuan 7\App2\App2\obj\Debug\App2.csproj.CoreCompileInputs.cache
+E:\C#\Git\Tuan 7\App2\App2\obj\Debug\App2.exe
+E:\C#\Git\Tuan 7\App2\App2\obj\Debug\App2.pdb
