@@ -33,6 +33,8 @@
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.fdlFont = new System.Windows.Forms.FontDialog();
+            this.saveFile = new System.Windows.Forms.SaveFileDialog();
+            this.openFile = new System.Windows.Forms.OpenFileDialog();
             this.SuspendLayout();
             // 
             // richTextBox1
@@ -62,6 +64,7 @@
             this.button2.TabIndex = 3;
             this.button2.Text = "Save";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.btnSave_Click);
             // 
             // button3
             // 
@@ -71,6 +74,15 @@
             this.button3.TabIndex = 4;
             this.button3.Text = "Open";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.btnOpen_Click);
+            // 
+            // fdlFont
+            // 
+            this.fdlFont.ShowColor = true;
+            // 
+            // openFile
+            // 
+            this.openFile.FileName = "openFile";
             // 
             // Form1
             // 
@@ -93,6 +105,8 @@
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.FontDialog fdlFont;
+        private System.Windows.Forms.SaveFileDialog saveFile;
+        private System.Windows.Forms.OpenFileDialog openFile;
     }
 }
 

@@ -28,6 +28,25 @@ namespace App2
             }
         }
 
-        
+        private void btnSave_Click(object sender, EventArgs e)
+        {
+            DialogResult sv;
+            sv = saveFile.ShowDialog();
+            if(sv == DialogResult.OK)
+            {
+                Name = saveFile.FileName;
+            }
+
+        }
+
+        private void btnOpen_Click(object sender, EventArgs e)
+        {
+            DialogResult op;
+            op = openFile.ShowDialog();
+            if (op == DialogResult.OK)
+            {
+              
+            }
+        }
     }
 }
